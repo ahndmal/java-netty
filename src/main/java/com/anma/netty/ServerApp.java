@@ -1,4 +1,4 @@
-package anma.netty;
+package com.anma.netty;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
