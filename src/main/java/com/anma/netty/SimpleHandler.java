@@ -4,8 +4,6 @@ import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 
-import java.nio.ByteBuffer;
-
 public class SimpleHandler extends ChannelInboundHandlerAdapter {
 
     @Override
